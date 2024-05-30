@@ -4,12 +4,22 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
 h1 {
     padding: 50%;
     display: inline;
 }
 
-P {
+p {
     padding: 10%;
     display: inline;
+}
+
+ul {
+
+}
+
+a {
+    color: cadetblue;
+    padding: 50%;
 }
