@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding: 50%;
+    display: inline;
+}
+
+P {
+    padding: 10%;
+    display: inline;
+}
